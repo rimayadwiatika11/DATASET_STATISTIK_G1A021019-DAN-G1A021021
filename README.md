@@ -2,8 +2,8 @@
 # Anggota Kelompok :
 # Rose Enjellina (G1A021019)
 # Rimaya Dwi Atika (G1A021021)
-
-# Dalam tugas dataset Statiska ini, kami mengambil sampel dataset dari "Dataset Analysis Using Python"
+# 
+# Dalam tugas dataset Statiska ini, kami mengambil sampel dataset dari "Dataset Analysis Using Python" yang telah kami kurangi datanya sebagian.
 # Terdapat kolom R&D Spend (Research and Development), yang berisikan biaya dari rangkaian proses riset dan pengembangan produk atau layanan yang ingin dibuat.
 # Kolom Administration, berisikan data administrasi dari suatu produk atau layanan.
 # Kolom Marketing Spend, berisikan data anggaran pemasaran suatu produk.
